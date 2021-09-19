@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# exluding models and datasets
+*.tfrecord
+*.h5
+*.jpg
+*.csv
+*.json
