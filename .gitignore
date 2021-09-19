@@ -134,3 +134,6 @@ dmypy.json
 *.jpg
 *.csv
 *.json
+
+# Exclude mac folder cache
+.DS_Store
